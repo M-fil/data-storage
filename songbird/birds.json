@@ -1,0 +1,302 @@
+[
+  [
+    {
+       "audio" : "https://www.xeno-canto.org/sounds/uploaded/DLDERPOXJA/XC582696-200815-NFC-vanneau-05h20-2-Guerfand.mp3",
+       "name" : "Чибис",
+       "species" : "Vanellus vanellus",
+       "id" : 1,
+       "description" : "Чибис величиной с галку или чуть поменьше. От других куликов он легко отличается своей чёрно-белой окраской и тупыми крыльями. Верхняя сторона с сильным металлическим зеленым, бронзовым и пурпурным блеском, грудь чёрная, бока тела, брюшко и бока головы белые.",
+       "image" : "https://live.staticflickr.com/3932/33780976196_1c428def5f_n.jpg"
+    },
+    {
+       "audio" : "https://www.xeno-canto.org/sounds/uploaded/RVLNPQSYVW/XC571413-common%20kingfisher%2820.5.18.9.2%29.mp3",
+       "name" : "Зимородок",
+       "species" : "Alcedo atthis",
+       "id" : 2,
+       "description" : "Имеет яркое оперение, сверху блестящее, голубовато-зелёное, с мелкими светлыми крапинками на голове и крыльях. Зимородки любят уединение, увидеть их удаётся редко. Голос — прерывистый писк «тиип-тиип-тиип».",
+       "image" : "https://live.staticflickr.com/65535/49669389956_2f11d465f1_n.jpg"
+    },
+    {
+       "audio" : "https://www.xeno-canto.org/sounds/uploaded/IJRRKWZVQN/XC572417-Locflu%201.mp3",
+       "name" : "Речной сверчок",
+       "species" : "Locustella fluviatilis",
+       "id" : 3,
+       "description" : "Маленькая птица, верхняя часть тела оливково-коричневого цвета. На горле и груди — тёмные, расплывчатые продольные пестрины. Нижняя часть тела грязно-белого цвета с оливково-коричневыми боковыми сторонами. «Бровь» грязно-белого цвета, окологлазное кольцо светлое. Хвост широкий, с закруглённым концом.",
+       "image" : "https://live.staticflickr.com/65535/49977455303_0ee1747bb9_n.jpg"
+    },
+    {
+       "audio" : "https://www.xeno-canto.org/sounds/uploaded/MMEJYLOPDO/XC571136-Pilgrimsfalk_12.mp3",
+       "name" : "Сапсан",
+       "species" : "Falco peregrinus",
+       "id" : 4,
+       "description" : "Это самая быстрая птица в мире. Общее телосложение крепкое, характерное для активных хищных птиц — широкая грудь с твёрдыми и выпуклыми мышцами, сильные пальцы с острыми и круто согнутыми когтями, и короткий, серпообразно загнутый клюв",
+       "image" : "https://live.staticflickr.com/7641/26186128614_b50951d51b_n.jpg"
+    },
+    {
+       "audio" : "https://www.xeno-canto.org/sounds/uploaded/IBLQAJNUOV/XC396375-Great%20Knot%20videosound%20CAJ16-R.mp3",
+       "name" : "Большо́й песо́чник",
+       "species" : "Calidris tenuirostris",
+       "id" : 5,
+       "description" : "Самый крупный из песочников. Верхняя часть тела имеет тёмно-бурый фон, однако нередко значительное количество рыже-каштановых с чёрными вершинами перьев. В целом немногословная птица. Изредка издаёт двусложный крик, передаваемый как «нют-нют».",
+       "image" : "https://live.staticflickr.com/65535/49836069676_b6854a5a7c_n.jpg"
+    },
+    {
+       "audio" : "https://www.xeno-canto.org/sounds/uploaded/LHCOINSOBZ/XC572730-200701_01Milvus%20migrans%20pousado%20no%20eucalipto%2C%20chamada%20con%20outro%20dando%20voltas%20arredor%20%2C%20Bra%C3%B1as%20de%20La%C3%AD%C3%B1o%2C%20Dodro%2C%209.30%20nubrado%20despois%20de%20chuvia.mp3",
+       "name" : "Коршун",
+       "species" : "Milvus migrans",
+       "id" : 6,
+       "description" : "Cпинная сторона тёмно-бурая, темя иногда беловатое с черноватыми наствольными отметинами, перья маховые тёмно-бурые со светлыми основаниями внутренних опахал, рулевые бурые с тёмным поперечным рисунком. Клюв и ноги жёлтые. Радужка бледно-бурая или жёлто-бурая. Голос — мелодичная трель «юрль-ююррль-ююрррль» и частое «ки-ки-ки»",
+       "image" : "https://live.staticflickr.com/65535/49670478112_a15f312be0_n.jpg"
+    }
+ ],
+ [
+    {
+       "audio" : "https://www.xeno-canto.org/sounds/uploaded/BBJSEFYVPV/XC580128-Wood%20Sand%2029th%20July%20audiomoth.mp3",
+       "name" : "Фифи",
+       "species" : "Tringa glareola",
+       "id" : 1,
+       "description" : "Фифи — птица с чёрно-белым оперением, на спине есть коричневые или бурые крапления. Длина тела 15—25 см, у летящей птицы ноги заметно выдаются за край хвоста. Гнездится фифи на земле.",
+       "image" : "https://live.staticflickr.com/1859/44083201382_92eff9ac4f_n.jpg"
+    },
+    {
+       "audio" : "https://www.xeno-canto.org/sounds/uploaded/MMEJYLOPDO/XC384040-Storlom_4.mp3",
+       "name" : "Чернозобая гагара",
+       "species" : "Gavia arctica",
+       "id" : 2,
+       "description" : "Гагара среднего размера (крупнее краснозобой, но заметно мельче белоклювой и темноклювой). Общая длина 58—75 см, размах крыльев 110—140 см. Голос чернозобой гагары очень разнообразен и трудно передаётся словами. В полёте наиболее часто можно слышать хриплое, постепенно убыстряющееся «га…га…га…га…гарррааа» или одиночное отрывистое «гак»",
+       "image" : "https://live.staticflickr.com/65535/49047148303_a6ffa88698_n.jpg"
+    },
+    {
+       "audio" : "https://www.xeno-canto.org/sounds/uploaded/SNRCANJSRX/XC559261-Grus%20grus%20calls%20pair%20Store%20Mosse%20190417%20c.mp3",
+       "name" : "Серый журавль",
+       "species" : "Grus grus",
+       "id" : 3,
+       "description" : "Длина тела 105-130 см, размах крыльев 200-245 см. Крупная птица характерного облика с длинной шеей и ногами. Окраска оперения самцов и самок в основном серая. На темени красная «шапочка» - участок голой бородавчатой кожи.",
+       "image" : "https://live.staticflickr.com/65535/50011603591_f81f85b3f5_n.jpg"
+    },
+    {
+       "audio" : "https://www.xeno-canto.org/sounds/uploaded/TLPLNAINFU/XC471104-06052019_002-konge%C3%B8rn-ravn_call.mp3",
+       "name" : "Беркут",
+       "species" : "Aquila chrysaetos",
+       "id" : 4,
+       "description" : "Самый крупный представитель рода Aquila в Северной Палеарктике. Длина тела 75-88 см, размах крыльев 204-230 см. Взрослые птицы бурые, затылок и задняя сторона шеи («грива») золотисто-рыжие. У молодых птиц на крыльях снизу по центру по крупному белому пятну («зеркальцу») неправильной формы, хвост белый с широкой темной полосой по краю.",
+       "image" : "https://live.staticflickr.com/65535/50025957082_de3a89393e_n.jpg"
+    },
+    {
+       "audio" : "https://www.xeno-canto.org/sounds/uploaded/MHVQXRLBKS/XC582023-Wulp%20200521%202320%201a.mp3",
+       "name" : "Большой кроншнеп",
+       "species" : "Numenius arquata",
+       "id" : 5,
+       "description" : "Один из наиболее крупных куликов Западной Палеарктики, длина тела 50-70 см, размах крыльев 80-110 см. Окраска оперения серо-коричневая с темными пестринами, характерная особенность - светлая окраска нижней стороны крыльев, белая спина и крестец, длинные ноги и длинный загнутый книзу клюв.",
+       "image" : "https://live.staticflickr.com/2869/34258353206_3cfe4b037f_n.jpg"
+    },
+    {
+       "audio" : "https://www.xeno-canto.org/sounds/uploaded/UUUYSSONMM/XC573905-R%C3%A1kosn%C3%ADk%20zp%C4%9Bvn%C3%BD%20%286%29%20MP3.mp3",
+       "name" : "Камышевка",
+       "species" : "Acrocephalus palustris",
+       "id" : 6,
+       "description" : "Болотная камышовка длиной примерно 13 см, размах крыльев составляет от 17 до 21 см. Верхняя сторона буро-серая, а нижняя желтовато-белая. У птицы белёсое горло и острый клюв. Самец и самка имеют одинаковую окраску. Болотная камышовка ловко передвигается в густой растительности и может имитировать несколько голосов других видов птиц.",
+       "image" : "https://live.staticflickr.com/65535/40860695853_0972503911_n.jpg"
+    }
+ ],
+ [
+    {
+       "audio" : "https://www.xeno-canto.org/sounds/uploaded/OOECIWCSWV/XC300328-LS_59840%20White-backed%20Vulture%20call%20A.mp3",
+       "name" : "Африканский гриф",
+       "species" : "Gyps africanus",
+       "id" : 1,
+       "description" : "Длина крыла составляет 55—64 см, размах крыльев доходит до 218см. Длина хвоста — 24—27см, цевки — 8—12см. Средних размеров гриф, оперение коричневое и кремовое, причём взрослые птицы светлее молодых. Обычно птицы молчаливы. Их голоса можно услышать, когда идёт делёжка туши, при этом доминирующие птицы шипят, а остальные — издают визги.",
+       "image" : "https://live.staticflickr.com/4232/35525257601_b1cc4becd4_n.jpg"
+    },
+    {
+       "audio" : "https://www.xeno-canto.org/sounds/uploaded/JDCTKFMBKV/XC518394-200108_0496.MP3",
+       "name" : "Птица-секретарь",
+       "species" : "Sagittarius serpentarius",
+       "id" : 2,
+       "description" : "Крупная птица, похожа на аиста с коротким клювом. Длина птицы-секретаря насчитывает от 125 до 155 см, а масса достигает почти 4 кг. Размах крыльев составляет примерно 210 см. Самым заметным признаком являются чёрные перья на голове, которые поднимаются во время брачного периода. Птицы-секретари издают рычащие и каркающие звуки.",
+       "image" : "https://live.staticflickr.com/4117/4894281150_1cb2837e40_n.jpg"
+    },
+    {
+       "audio" : "https://www.xeno-canto.org/sounds/uploaded/IGFROYWVEW/XC454909-ascalaphe.mp3",
+       "name" : "Филин",
+       "species" : "Bubo ascalaphus",
+       "id" : 3,
+       "description" : "Взрослый фараонов филин — птица размером 46—50см. Общий цвет оперения варьирует от бледно-рыжего до песочного, с чёрными пятнами. Лицевой диск обрамлён узким тёмным ободком. Клюв чёрный. Имеет небольшие перьевые «ушки» и желтовато-оранжевые глаза.",
+       "image" : "https://live.staticflickr.com/4899/40030522053_7386c46764_n.jpg"
+    },
+    {
+       "audio" : "https://www.xeno-canto.org/sounds/uploaded/GQMCPIVNXX/XC507927-Helmeted%20Guineafowl.mp3",
+       "name" : "Цесарка",
+       "species" : "Numida meleagris",
+       "id" : 4,
+       "description" : "Цесарка отличается более или менее голой головой с разнообразными наростами или придатками, слегка крючковатым, сжатым с боков клювом умеренной величины, короткими, округлёнными крыльями и коротким хвостом, прикрытым кроющими перьями. Оперение однообразного тёмно-серого цвета с белыми круглыми пятнышками, окаймлёнными тёмными ободками.",
+       "image" : "https://live.staticflickr.com/3114/2864990599_dc4afc32d8_n.jpg"
+    },
+    {
+       "audio" : "https://www.xeno-canto.org/sounds/uploaded/YTUXOCTUEM/XC516153-Struthio_camelus_australis-FL%20quiet%20calls%20imm%20Polokwane%20GameRes%2030Oct19%208.05am%20LS115271a.mp3",
+       "name" : "Страус",
+       "species" : "Struthio camelus",
+       "id" : 5,
+       "description" : "Африканский страус — самая крупная из современных птиц: высотой до 270 см и массой до 156 кг. Страус имеет плотное телосложение, длинную шею и небольшую уплощённую голову. Клюв прямой и плоский, с роговым «когтем» на надклювье, довольно мягкий. Глаза большие, с густыми ресницами на верхнем веке.",
+       "image" : "https://live.staticflickr.com/7909/47249052632_34020d689b_n.jpg"
+    },
+    {
+       "audio" : "https://www.xeno-canto.org/sounds/uploaded/CTBGPXUOSF/XC551006-Effraie%20des%20clochers-260420-030213.mp3",
+       "name" : "Сипуха",
+       "species" : "Tyto alba",
+       "id" : 6,
+       "description" : "Хищная птица размером с галку. Среднего размера птица, со стройным телосложением и длинными ногами. Оперение очень мягкое, пушистое. От представителей семейства совиных сипух можно легко определить по форме лицевого диска, который у них имеет явно выраженные очертания в виде сердца.",
+       "image" : "https://live.staticflickr.com/1921/44962285192_75b8793de2_n.jpg"
+    }
+ ],
+ [
+    {
+       "audio" : "https://www.xeno-canto.org/sounds/uploaded/DGVLLRYDXS/XC230179-OPIHOA03.mp3",
+       "name" : "Гоацин",
+       "species" : "Opisthocomus hoazin",
+       "id" : 1,
+       "description" : "У нее зачаточный гребешок грудной кости и очень большой задний палец. Оперение на верхней стороне тела буро-коричневое (оливковое), со светло-жёлтыми (белыми) пестринками. Нижняя сторона тела беловатая, брюшко светло-ржавое (рыжеватое). На голове и затылке хохол из узких, заострённых перьев со светло-жёлтыми каёмками. Перья шеи также удлинены, узки и заострены. Щёки голые, красного цвета.",
+       "image" : "https://live.staticflickr.com/1898/43876172985_3804eb006c_n.jpg"
+    },
+    {
+       "audio" : "https://www.xeno-canto.org/sounds/uploaded/FPDBIILGCX/Lotens_Sunbird.mp3",
+       "name" : "Кустарниковая нектарница",
+       "species" : "Cinnyris lotenius",
+       "id" : 2,
+       "description" : "Небольшая птица. Крылья коричневые, на груди бордовая полоса или желтые пучки. Имеет своебразный клюв. Характерный крик - «жужжащие цвик-цвик», они также очень активны, часто кивают головой во время кормления.",
+       "image" : "https://live.staticflickr.com/5058/5439616224_769ab3e60c_n.jpg"
+    },
+    {
+       "audio" : "https://www.xeno-canto.org/sounds/uploaded/JPBSNBUUEF/XC474795-Blue-and-yellow%20Macaw%2C%20flight%20call%2C%20190508-029.mp3",
+       "name" : "Сине-желтый Ара",
+       "species" : "Ara ararauna",
+       "id" : 3,
+       "description" : "Средняя птица, верхняя часть оперения тела ярко-голубая, бока шеи, грудка и живот оранжево-жёлтые. Кроющие перья хвоста ярко-голубые. Горло чёрное. Щёки спереди неоперённые серо-белые с чёрными полосками. Лоб зелёный. Клюв чёрный, очень сильный и способен лущить орехи и перегрызать ветви деревьев. Ноги буровато-чёрные. Радужка соломенно-жёлтая. Голос громкий и резкий, созвучен с названием птицы",
+       "image" : "https://live.staticflickr.com/1857/42887050850_83fb6ef2e9_n.jpg"
+    },
+    {
+       "audio" : "https://www.xeno-canto.org/sounds/uploaded/ZWAQHOJFLZ/XC216292-150303-calao%20%C3%A0%20casque%20jaune%40ta%C3%AF.mp3",
+       "name" : "Златошлемный калао",
+       "species" : "Ceratogymna elata",
+       "id" : 4,
+       "description" : "Одна из крупнейших птиц Африки. Голова относительно размеров тела маленькая, хвост и шея — длинные, крылья довольно длинные, мощные, широкие и сильно округлённые, ноги очень короткие. Имеет рыже-золотое оперение на голове, и очень массивный клюв. ",
+       "image" : "https://live.staticflickr.com/5626/23177206339_85a2129042_n.jpg"
+    },
+    {
+       "audio" : "https://www.xeno-canto.org/sounds/uploaded/WZSVLIHYQF/XC377215-Chrysolampis_mosquitus_24_Jun_2017_Ferreira_Gomes_AP_RSS.mp3",
+       "name" : "Руби́новый коли́бри",
+       "species" : "Chrysolampis mosquitus",
+       "id" : 5,
+       "description" : "Это очень проворные и быстрые птицы, проводящие большую часть своей жизни в полёте.  Макушка и затылок ярко-красные, на горле и груди блестящие перья золотисто-оранжевого цвета. Остальная нижняя часть тела коричневого цвета. Потребляет энергии в 25 раз больше чем птица размером с голубя.",
+       "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ruby-topaz-hummingbird_chrysolampis-mosquitus-7042-cr1.jpg/480px-Ruby-topaz-hummingbird_chrysolampis-mosquitus-7042-cr1.jpg"
+    },
+    {
+       "audio" : "https://www.xeno-canto.org/sounds/uploaded/YESYDXYEZD/XC567950-flamant_rose_boulas.mp3",
+       "name" : "Фламинго",
+       "species" : "Phoenicopterus",
+       "id" : 6,
+       "description" : "У фламинго тонкие длинные ноги, гибкая шея и оперенье, окраска которого варьирует от белого до красного цвета. Их особым отличительным признаком является массивный выгнутый вниз клюв, с помощью которого они фильтруют пищу из воды или ила. Цвет оперения зависит от потребляемой пищи.",
+       "image" : "https://live.staticflickr.com/8247/8662392019_d97e0800be_n.jpg"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "name": "Курица",
+      "species": "Gallus gallus domesticus",
+      "description": "Курица – один самых популярных и распространенных видов домашней птицы. Относится к семейству фазановых, роду гребенчатых кур. Самец курицы называется петухом, птенец – цыпленком. Прародительницей домашней курицы считается банкивская джунглевая курица. За многовековой период одомашнивания люди смогли вывести очень много различных пород.",
+      "image": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/images/chicken.jpg",
+      "audio": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/sounds/chicken.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Гусь",
+      "species": "Anser canagicus",
+      "description": "Гуси отличаются клювом, имеющим при основании большую высоту, чем ширину, и оканчивающимся ноготком с острым краем. По краям клюва идут мелкие зубчики. Гуси отличаются шеей средней длины (более длинной, чем у уток, но короче, чем у лебедей), довольно высокими ногами, прикреплёнными ближе к середине тела, чем у уток, и твёрдым бугром, или шпорой, на сгибе крыла.",
+      "image": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/images/goose.jpg",
+      "audio": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/sounds/goose.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Утка",
+      "species": "Anatidae",
+      "description": "У́тка — представитель птиц из нескольких родов семейства утиных: пеганки, нырковые утки, савки, речные утки, утки-пароходы, мускусные утки и крохали; всего более 110 видов. Распространены утки широко, в России более 30 видов. Самцы уток называются се́лезнями, птенцы утки — утя́тами.",
+      "image": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/images/duck.jpg",
+      "audio": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/sounds/duck.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Петух",
+      "species": "Gallus gallus",
+      "description": "Пету́х — самец курицы; в общем смысле, самцы всех птиц семейства курообразных. Внешне от курицы обычно отличается крупным гребнем и серьгами, также пышным и часто разноцветным хвостовым оперением",
+      "image": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/images/rooster.jpg",
+      "audio": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/sounds/rooster.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Перепелка",
+      "species": "Coturnix coturnix",
+      "description": "Обыкнове́нный пе́репел, или перепёлка, — птица подсемейства куропатковых отряда курообразных. В прошлом перепел служил предметом добывания, во-первых, как дичь, употребляемая в пищу, во-вторых — в качестве певчей птицы и, наконец, для устройства перепелиных боёв.",
+      "image": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/images/quail.jpg",
+      "audio": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/sounds/quail.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Индюк",
+      "species": "Meleagris gallopavo",
+      "description": "Инде́йка — крупная куриная птица Нового Света из рода индеек, семейства фазановых. Считается родоначальником домашней индейки",
+      "image": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/images/turkey.jpg",
+      "audio": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/sounds/turkey.mp3"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "name": "Белая трясогузка",
+      "species": "Motacilla alba",
+      "description": "Длина тела белой трясогузки составляет 16—19 см и для неё характерен длинный хвост. Окраска верхней части тела преимущественно серая, а нижней — белая. Головка также белая, с чёрным горлом и шапочкой. Масса трясогузки всего 20—23 г. Получила своё название из-за характерных движений хвостом.",
+      "image": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/images/wagtail.jpg",
+      "audio": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/sounds/wagtail.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Беркут",
+      "species": "Aquila chrysaetos",
+      "description": "Бе́ркут — одна из наиболее известных хищных птиц семейства ястребиных, самый крупный орёл. Распространён в Северном полушарии, где обитает преимущественно в горах, в меньшей степени на равнинных открытых и полуоткрытых ландшафтах. Избегает жилых районов, чувствителен к беспокойству со стороны человека.",
+      "image": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/images/golden-eagle.jpg",
+      "audio": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/sounds/golden-eagle.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Бородач",
+      "species": "Gypaetus barbatus",
+      "description": "Бородач был впервые описан основоположником научной биологической систематики Карлом Линнеем в 1758 году в десятом издании его «Системы природы». В этом же сочинении ему было присвоено латинское биноминальное название Vultur barbatus (С. 87). В настоящее время бородач выделен в отдельный род Gypaetus, включающий один вид. В русском языке используется два названия этой птицы.",
+      "image": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/images/beaver.jpg",
+      "audio": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/sounds/beaver.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Вертишейка",
+      "species": "Jynx torquilla",
+      "description": "Вертише́йка, или обыкновенная вертишейка (лат. Jynx torquilla) — птица из семейства дятловых. Мелкая птица с длинной подвижной шеей, по внешнему виду и поведению больше похожа на воробьиных птиц, чем на типичных дятлов, с которыми её объединяют прежде всего характерное строение ног — два пальца обращены назад и два вперёд, и длинный клейкий язык, а также волнообразный характер полёта.",
+      "image": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/images/wryneck.jpg",
+      "audio": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/sounds/wryneck.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Горная овсянка",
+      "species": "Emberiza cia",
+      "description": "Длина тела достигает 16 см, масса — примерно 25 г. Половой диморфизм не выражен. Оперение самок более тусклое и рисунок на голове менее контрастный.",
+      "image": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/images/rock-bunting.jpg",
+      "audio": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/sounds/rock-bunting.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Змееяд",
+      "species": "Circaetus gallicus",
+      "description": "Змеея́д, или обыкновенный змеея́д, орёл-змееяд или крачун — хищная птица семейства ястребиных, отряд ястребообразные, подсемейства змееяды.",
+      "image": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/images/short-toed-eagle.jpg",
+      "audio": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/sounds/short-toed-eagle.mp3"
+    }
+  ]
+]
