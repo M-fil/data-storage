@@ -245,7 +245,7 @@
       "name": "Индюк",
       "species": "Meleagris gallopavo",
       "description": "Инде́йка — крупная куриная птица Нового Света из рода индеек, семейства фазановых. Считается родоначальником домашней индейки",
-      "image": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/images/turkey.jpg",
+      "image": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/images/turkey.jpeg",
       "audio": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/sounds/turkey.mp3"
     }
   ],
