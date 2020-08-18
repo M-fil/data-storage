@@ -205,48 +205,48 @@
       "name": "Курица",
       "species": "Gallus gallus domesticus",
       "description": "Курица – один самых популярных и распространенных видов домашней птицы. Относится к семейству фазановых, роду гребенчатых кур. Самец курицы называется петухом, птенец – цыпленком. Прародительницей домашней курицы считается банкивская джунглевая курица. За многовековой период одомашнивания люди смогли вывести очень много различных пород.",
-      "image": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/images/chicken.jpg",
-      "audio": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/sounds/chicken.mp3"
+      "image": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/images/chicken.jpg",
+      "audio": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/sounds/chicken.mp3"
     },
     {
       "id": 2,
       "name": "Гусь",
       "species": "Anser canagicus",
       "description": "Гуси отличаются клювом, имеющим при основании большую высоту, чем ширину, и оканчивающимся ноготком с острым краем. По краям клюва идут мелкие зубчики. Гуси отличаются шеей средней длины (более длинной, чем у уток, но короче, чем у лебедей), довольно высокими ногами, прикреплёнными ближе к середине тела, чем у уток, и твёрдым бугром, или шпорой, на сгибе крыла.",
-      "image": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/images/goose.jpg",
-      "audio": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/sounds/goose.mp3"
+      "image": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/images/goose.jpg",
+      "audio": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/sounds/goose.mp3"
     },
     {
       "id": 3,
       "name": "Утка",
       "species": "Anatidae",
       "description": "У́тка — представитель птиц из нескольких родов семейства утиных: пеганки, нырковые утки, савки, речные утки, утки-пароходы, мускусные утки и крохали; всего более 110 видов. Распространены утки широко, в России более 30 видов. Самцы уток называются се́лезнями, птенцы утки — утя́тами.",
-      "image": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/images/duck.jpg",
-      "audio": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/sounds/duck.mp3"
+      "image": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/images/duck.jpg",
+      "audio": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/sounds/duck.mp3"
     },
     {
       "id": 4,
       "name": "Петух",
       "species": "Gallus gallus",
       "description": "Пету́х — самец курицы; в общем смысле, самцы всех птиц семейства курообразных. Внешне от курицы обычно отличается крупным гребнем и серьгами, также пышным и часто разноцветным хвостовым оперением",
-      "image": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/images/rooster.jpg",
-      "audio": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/sounds/rooster.mp3"
+      "image": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/images/rooster.jpg",
+      "audio": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/sounds/rooster.mp3"
     },
     {
       "id": 5,
       "name": "Перепелка",
       "species": "Coturnix coturnix",
       "description": "Обыкнове́нный пе́репел, или перепёлка, — птица подсемейства куропатковых отряда курообразных. В прошлом перепел служил предметом добывания, во-первых, как дичь, употребляемая в пищу, во-вторых — в качестве певчей птицы и, наконец, для устройства перепелиных боёв.",
-      "image": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/images/quail.jpg",
-      "audio": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/sounds/quail.mp3"
+      "image": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/images/quail.jpg",
+      "audio": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/sounds/quail.mp3"
     },
     {
       "id": 6,
       "name": "Индюк",
       "species": "Meleagris gallopavo",
       "description": "Инде́йка — крупная куриная птица Нового Света из рода индеек, семейства фазановых. Считается родоначальником домашней индейки",
-      "image": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/images/turkey.jpg",
-      "audio": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/sounds/turkey.mp3"
+      "image": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/images/turkey.jpg",
+      "audio": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/sounds/turkey.mp3"
     }
   ],
   [
@@ -255,48 +255,48 @@
       "name": "Белая трясогузка",
       "species": "Motacilla alba",
       "description": "Длина тела белой трясогузки составляет 16—19 см и для неё характерен длинный хвост. Окраска верхней части тела преимущественно серая, а нижней — белая. Головка также белая, с чёрным горлом и шапочкой. Масса трясогузки всего 20—23 г. Получила своё название из-за характерных движений хвостом.",
-      "image": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/images/wagtail.jpg",
-      "audio": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/sounds/wagtail.mp3"
+      "image": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/images/wagtail.jpg",
+      "audio": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/sounds/wagtail.mp3"
     },
     {
       "id": 2,
       "name": "Беркут",
       "species": "Aquila chrysaetos",
       "description": "Бе́ркут — одна из наиболее известных хищных птиц семейства ястребиных, самый крупный орёл. Распространён в Северном полушарии, где обитает преимущественно в горах, в меньшей степени на равнинных открытых и полуоткрытых ландшафтах. Избегает жилых районов, чувствителен к беспокойству со стороны человека.",
-      "image": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/images/golden-eagle.jpg",
-      "audio": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/sounds/golden-eagle.mp3"
+      "image": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/images/golden-eagle.jpg",
+      "audio": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/sounds/golden-eagle.mp3"
     },
     {
       "id": 3,
       "name": "Бородач",
       "species": "Gypaetus barbatus",
       "description": "Бородач был впервые описан основоположником научной биологической систематики Карлом Линнеем в 1758 году в десятом издании его «Системы природы». В этом же сочинении ему было присвоено латинское биноминальное название Vultur barbatus (С. 87). В настоящее время бородач выделен в отдельный род Gypaetus, включающий один вид. В русском языке используется два названия этой птицы.",
-      "image": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/images/beaver.jpg",
-      "audio": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/sounds/beaver.mp3"
+      "image": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/images/beaver.jpg",
+      "audio": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/sounds/beaver.mp3"
     },
     {
       "id": 4,
       "name": "Вертишейка",
       "species": "Jynx torquilla",
       "description": "Вертише́йка, или обыкновенная вертишейка (лат. Jynx torquilla) — птица из семейства дятловых. Мелкая птица с длинной подвижной шеей, по внешнему виду и поведению больше похожа на воробьиных птиц, чем на типичных дятлов, с которыми её объединяют прежде всего характерное строение ног — два пальца обращены назад и два вперёд, и длинный клейкий язык, а также волнообразный характер полёта.",
-      "image": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/images/wryneck.jpg",
-      "audio": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/sounds/wryneck.mp3"
+      "image": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/images/wryneck.jpg",
+      "audio": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/sounds/wryneck.mp3"
     },
     {
       "id": 5,
       "name": "Горная овсянка",
       "species": "Emberiza cia",
       "description": "Длина тела достигает 16 см, масса — примерно 25 г. Половой диморфизм не выражен. Оперение самок более тусклое и рисунок на голове менее контрастный.",
-      "image": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/images/rock-bunting.jpg",
-      "audio": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/sounds/rock-bunting.mp3"
+      "image": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/images/rock-bunting.jpg",
+      "audio": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/sounds/rock-bunting.mp3"
     },
     {
       "id": 6,
       "name": "Змееяд",
       "species": "Circaetus gallicus",
       "description": "Змеея́д, или обыкновенный змеея́д, орёл-змееяд или крачун — хищная птица семейства ястребиных, отряд ястребообразные, подсемейства змееяды.",
-      "image": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/images/short-toed-eagle.jpg",
-      "audio": "https://github.com/M-fil/tasks/tree/master/tasks/songbird/sounds/short-toed-eagle.mp3"
+      "image": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/images/short-toed-eagle.jpg",
+      "audio": "https://raw.githubusercontent.com/M-fil/data-storage/master/songbird/sounds/short-toed-eagle.mp3"
     }
   ]
 ]
