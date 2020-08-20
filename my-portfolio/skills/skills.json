@@ -1,0 +1,38 @@
+{
+    "JAVASCRIPT": {
+        "text": "JavaScript",
+        "percentage": 90
+    },
+    "HTML": {
+        "text": "HTML",
+        "percentage": 90
+    },
+    "CSS": {
+        "text": "CSS",
+        "percentage": 90
+    },
+    "SCSS": {
+        "text": "SCSS",
+        "percentage": 90
+    },
+    "REACT": {
+        "text": "React",
+        "percentage": 75
+    },
+    "REDUX": {
+        "text": "Redux",
+        "percentage": 60
+    },
+    "TYPESCRIPT": {
+        "text": "TypeScript",
+        "percentage": 50
+    },
+    "TESTING_LIBRARIES": {
+        "text": "React Testing Library & Jest",
+        "percentage": 40
+    },
+    "ENGLISH_LEVEL": {
+        "text": "English: B1 (Intermediate)",
+        "percentage": 50
+    }
+}
