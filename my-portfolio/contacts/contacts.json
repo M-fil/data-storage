@@ -1,0 +1,38 @@
+{
+  "vk": {
+      "link": "https:\/\/vk.com\/m__fil",
+      "name": "VK",
+      "iconClassName": "fab fa-vk",
+      "color": "#4A76A8"
+  },
+  "telegram": {
+      "link": "https:\/\/t.me\/Filan0vichMaxim",
+      "name": "Telegram",
+      "iconClassName": "fab fa-telegram-plane",
+      "color": "#36AEE2"
+  },
+  "github": {
+      "link": "https:\/\/github.com\/M-fil",
+      "name": "GitHub",
+      "iconClassName": "fab fa-github",
+      "color": "#24292E"
+  },
+  "mail": {
+      "link": "mailto:maxim_filanovich@mail.ru",
+      "name": "Mail.ru",
+      "iconClassName": "fas fa-envelope",
+      "color": "#F19602"
+  },
+  "twitter": {
+      "link": "https:\/\/twitter.com\/8Z64Su3u8Rfe7gf",
+      "name": "Twitter",
+      "iconClassName": "fab fa-twitter",
+      "color": "#1DA1F2"
+  },
+  "youtube": {
+      "link": "https:\/\/www.youtube.com\/channel\/UC1RYQ3ME3NJkqIAujhDiApA\/featured?view_as=subscriber",
+      "name": "YouTube",
+      "iconClassName": "fab fa-youtube",
+      "color": "#FF011D"
+  }
+}
