@@ -1,4 +1,29 @@
 {
+    "INNOWISE_TABLES_BOOKING": {
+      "name": "Innowise Tables Booking",
+      "key": "innowise-tables-booking",
+      "links": {
+          "demo": "https://5f6a6a6aa806490125859bfe--innowise-tables-booking.netlify.app/",
+          "github": "https://github.com/M-fil/innowise-homework/tree/release"
+      },
+      "tools": [
+          "HTML",
+          "React",
+          "Redux",
+          "TypeScript"
+      ],
+      "images": [
+          "https:\/\/raw.githubusercontent.com\/M-fil\/data-storage\/master\/my-portfolio\/projects\/images\/innowise-tables-booking\/innowise-tables-booking-1.png",
+          "https:\/\/raw.githubusercontent.com\/M-fil\/data-storage\/master\/my-portfolio\/projects\/images\/innowise-tables-booking\/innowise-tables-booking-2.png",
+          "https:\/\/raw.githubusercontent.com\/M-fil\/data-storage\/master\/my-portfolio\/projects\/images\/innowise-tables-booking\/innowise-tables-booking-3.png",
+          "https:\/\/raw.githubusercontent.com\/M-fil\/data-storage\/master\/my-portfolio\/projects\/images\/innowise-tables-booking\/innowise-tables-booking-4.png",
+          "https:\/\/raw.githubusercontent.com\/M-fil\/data-storage\/master\/my-portfolio\/projects\/images\/innowise-tables-booking\/innowise-tables-booking-5.png",
+          "https:\/\/raw.githubusercontent.com\/M-fil\/data-storage\/master\/my-portfolio\/projects\/images\/innowise-tables-booking\/innowise-tables-booking-6.png",
+          "https:\/\/raw.githubusercontent.com\/M-fil\/data-storage\/master\/my-portfolio\/projects\/images\/innowise-tables-booking\/innowise-tables-booking-7.png"
+
+      ],
+      "isMoreThanOneCollaborator": false
+  },
   "RS_LANG": {
       "name": "RS Lang",
       "key": "rslang",
