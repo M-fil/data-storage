@@ -47,14 +47,10 @@
 - Работа с технологими Redux, React, Redux Saga
 - Использование Firebase в качестве бэкенда
 
-## Видео с разбором задания
-https://youtu.be/k7kKaa5KwBs
-
 ## Информационные ресурсы
 - Использование распознавания речи для тренировки произношения https://youtu.be/XbjGZHeLUn8  
 
 ## Материалы
-- Вебинар: Асинхронность в JavaScript https://youtu.be/Ih6Q7ka2eSQ
 - Yandex.Translate API https://tech.yandex.com/translate/
 - Web API SpeechRecognition https://developer.mozilla.org/ru/docs/Web/API/SpeechRecognition
 - JavaScript Speech Recognition https://youtu.be/0mJC0A72Fnw
